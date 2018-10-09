@@ -1,0 +1,12 @@
+# Salesforce
+src/package.xml
+.sfdx/
+# MavensMate & Sublime Text
+config/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+# IlluminatedCloud & IntelliJ
+*.iml
+IlluminatedCloud/
+.idea/
